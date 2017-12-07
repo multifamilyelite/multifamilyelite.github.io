@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Multifamily Elite</title>
+	<atom:link href="https://multifamilyelite.github.io/feed/" rel="self" type="application/rss+xml" />
+	<link>https://multifamilyelite.github.io/</link>
+	<description>A Division of Fortune Cloud Enterprises.</description>
+	<lastBuildDate>Thu, 07 Dec 2017 04:45:25 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://wordpress.org/?v=3.5.1</generator>
+		<item>
+		<title>Oak Trees Apartments</title>
+		<link>https://multifamilyelite.github.io/2013/03/19/oak-trees-apartments/</link>
+		<comments>https://multifamilyelite.github.io/2013/03/19/oak-trees-apartments/#comments</comments>
+		<pubDate>Tue, 19 Mar 2013 17:30:57 +0000</pubDate>
+		<dc:creator>multifamilyelite</dc:creator>
+				<category><![CDATA[Acquisitions]]></category>
+
+		<guid isPermaLink="false">https://multifamilyelite.github.io/?p=266</guid>
+		<description><![CDATA[Oak Tree is a 20-unit class B apartment complex located in Arlington, Texas with an average unit size of approximately 503 square feet. Originally constructed in 1981, the property is in excellent condition and should require no immediate improvements. The asset has a concrete slab foundation, a pitched roof, and a well maintained parking lot with ample  space. All units [...]]]></description>
+				<content:encoded><![CDATA[<p><img class="alignnone size-full wp-image-271" alt="Oak Tree" src="https://multifamilyelite.github.io/wordpress/wp-content/uploads/2013/03/Oak-Tree.jpg" width="672" height="448" /></p>
+<p>Oak Tree is a 20-unit class B apartment complex located in Arlington, Texas with an average unit size of approximately 503 square feet. Originally constructed in 1981, the property is in excellent condition and should require no immediate improvements. The asset has a concrete slab foundation, a pitched roof, and a well maintained parking lot with ample  space. All units are one-bedroom and one-bathroom providing the owner with a high rent per square foot of .90 cents.</p>
+<p>Oak Tree is located on Lynda Lane, just west of South Cooper Street, less than one half miles from The University of Texas at Arlington (UTA). The neighborhood west of Oak Tree is a quiet, well-established residential neighborhood, while just to the east of the property lies South Cooper Street which boasts a daily average traffic count of approximately 70,000 vehicles. Oak Tree benefits immensely from its location in relation to UTA. Th university sits on 420 acres and has a total enrollment of 33,439 students. According to a Dallas Business Journal article from January, 2012, &#8220;The university’s head count is up 34 percent over five years.&#8221; U.S. News and World  Report states that 87 percent of UTA&#8217;s students (29,091) live off-campus. The university&#8217;s graduate programs for both Nurse Practitioner and Social Work are ranked in the top 50 nationally. Oak Tree has a long history of having a waiting list for residents to move in.</p>
+<p>Day One Cap Rate of 8.54 Percent. We purchased the property using a Canadian lender.</p>
+]]></content:encoded>
+			<wfw:commentRss>https://multifamilyelite.github.io/2013/03/19/oak-trees-apartments/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
